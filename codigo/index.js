@@ -9,7 +9,7 @@ app.use(express.json()); // permite recibir datos en formato JSON en las solicit
 // Configuración de la conexión
 const dbConfig = {
   user: "sa",
-  password: "AntonyG017*",
+  password: "ingrese su credencial",
   server: "localhost",
   database: "AdventureWorks2025",
   options: {
